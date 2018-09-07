@@ -1,3 +1,4 @@
+# coding:utf-8
 import re
 def myAtoi(self):
     s = 'asd123 123 123asad'
